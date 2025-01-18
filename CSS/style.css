@@ -1,5 +1,3 @@
-<style>
-  * {
-    border: 1px red dashed;
-  }
-</style>
+* {
+  border: 1px solid red;
+}
