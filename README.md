@@ -1,3 +1,5 @@
-# static-html-template
+# Link-in-Bio Project
 
-Use this template to create static HTML websites and deploy them on Render.
+-This project creates a customizable link-in-bio webpage for social media profiles, allowing users to share multiple links with a single URL.
+- Supports adding thumbnails for each link.
+- Fully responsive design for mobile and desktop.
